@@ -10,7 +10,9 @@ I'm a passionate Frontend Developer . My frontend expertise includes React, Tail
 *   ✉️  You can contact me at [musfiqurrhaman6@gmail.com](mailto:musfiqurrhaman6@gmail.com)
 *   🧠  I'm learning Javascript
 *   🤝  I'm open to collaborating on Frontend-projects
-*   ⚡  I'm secretly a Monster.<a href="https://www.github.com/Musfiqur-Rahman0" target="_blank" rel="noreferrer"><img
+*   ⚡  I'm secretly a Monster.
+<br>
+   <a href="https://www.github.com/Musfiqur-Rahman0" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/Musfiqur-Rahman0?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/musfiqurrahman6" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitch/status/musfiqurrahman6?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>### Skills 
 <p align="left">
