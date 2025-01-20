@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a dedicated Frontend developer
 ----------------------------------
 
-I'm a dedicated Frontend Developer . My frontend expertise includes React, Tailwind CSS, and Framer Motion, where I often work on smooth animations, responsive layouts, and interactive UI elements. I've also worked on several React-based projects involving Framer Motion animations, navbar responsiveness, dynamic image updates, and more. I'm also interested in game development and basic programming skills, focusing on Python. Beyond coding, I enjoy staying active and exploring new technologies. 🚀
+I'm a passionate Frontend Developer . My frontend expertise includes React, Tailwind CSS, and Framer Motion, where I often work on smooth animations, responsive layouts, and interactive UI elements. I've also worked on several React-based projects involving Framer Motion animations, navbar responsiveness, dynamic image updates, and more. I'm also interested in game development and basic programming skills, focusing on Python. Beyond coding, I enjoy staying active and exploring new technologies. 🚀
 
 *   🌍  I'm based in Bangladesh
 *   ✉️  You can contact me at [musfiqurrhaman6@gmail.com](mailto:musfiqurrhaman6@gmail.com)
