@@ -20,8 +20,7 @@
 ### Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,motion,shadcn" />
-    <img src="https://img.shields.io/badge/framer_motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/shadcn/ui-%231F2937?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="shadcn/ui" />
+
 </p>
 
 ### Backend & Database
