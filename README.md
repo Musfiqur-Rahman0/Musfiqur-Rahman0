@@ -10,9 +10,9 @@
 <!-- About Me -->
 ## 👨‍💻 About Me
 <p>I'm a focused and flexible Frontend Developer passionate about crafting clean, optimized, and user-centered web experiences. I specialize in building modern, responsive UIs using technologies like JavaScript, React, Tailwind CSS, and Framer Motion, creating dynamic interfaces that bring ideas to life</p>
+<hr/>
 
 
-<!-- About Me -->
 - 🌱 I’m currently exploring  **Next.js**
 - 💬 Ask me about **React, Tailwind CSS, Node.js, Shadcn/ui**
 - 📫 How to reach me: **musfiqurrhaman6@gmail.com**
