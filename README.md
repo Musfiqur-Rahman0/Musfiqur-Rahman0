@@ -39,7 +39,7 @@
 
 <p align="left">
   <a href="https://github.com/Musfiqur-Rahman0" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://linkedin.com/in/musfiqur-rahman-saikot-b61232360" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://linkedin.com/in/musfiqurrahmansaikot" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:musfiqurrhaman6@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
