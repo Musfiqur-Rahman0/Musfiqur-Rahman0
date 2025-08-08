@@ -5,22 +5,21 @@
 
 <!-- Name & Designation -->
 <h1 align="center">Hi 👋, I'm Musfiqur Rahman</h1>
-<h3 align="center">A Passionate Full Stack Web Developer from Bangladesh</h3>
+<h3 align="center">A Focused and Flexible Full Stack Web Developer from Bangladesh</h3>
 
 <!-- About Me -->
 ## 👨‍💻 About Me
 
-- 🌱 I’m currently exploring **Next.js & MongoDB**
-- 🔭 I’m working on a **Tourism Booking Web App**
-- 💬 Ask me about **React, Tailwind CSS, Node.js**
-- 📫 How to reach me: **yourname.dev@gmail.com**
+- 🌱 I’m currently exploring **Next.js **
+- 💬 Ask me about **React, Tailwind CSS, Node.js, Shadcn/ui**
+- 📫 How to reach me: **musfiqurrhaman6@gmail.com**
 
 <!-- Skills -->
 ## 🛠️ Skills
 
 ### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,motion,shadcn" />
 </p>
 
 ### Backend & Database
@@ -37,20 +36,19 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/yourusername" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://github.com/Musfiqur-Rahman0" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:yourname.dev@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
-
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Musfiqur-Rahman0&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Musfiqur-Rahman0&" alt="Streak" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musfiqur-Rahman0&layout=compact" alt="Languages" />
 </p>
