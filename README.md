@@ -5,7 +5,7 @@
 
 <!-- Name & Designation -->
 <h1 align="center">Hi 👋, I'm Musfiqur Rahman</h1>
-<h3 align="center">A Focused and Flexible Full Stack Web Developer from Bangladesh</h3>
+<h3 align="center">A Focused and Flexible Frontend Web Developer from Bangladesh</h3>
 
 <!-- About Me -->
 ## 👨‍💻 About Me
