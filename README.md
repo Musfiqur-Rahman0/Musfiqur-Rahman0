@@ -47,10 +47,10 @@
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Musfiqur-Rahman0&theme=default"
-    alt="GitHub Profile Details"
+    src="https://streak-stats.demolab.com/?user=Musfiqur-Rahman0"
+    alt="GitHub Streak Stats"
   />
 </p>
 
@@ -61,7 +61,7 @@
   />
 </p>
 
-<p align="left">
+<p align="right">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Musfiqur-Rahman0&theme=default"
     alt="GitHub Languages"
