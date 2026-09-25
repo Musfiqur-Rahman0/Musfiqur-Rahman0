@@ -57,23 +57,30 @@
 
 <br />
 
-<!-- GitHub Stats + Languages -->
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Musfiqur-Rahman0&theme=github_dark"
-    alt="GitHub Stats"
-    width="32%"
-  />
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Musfiqur-Rahman0&theme=github_dark"
+        alt="GitHub Stats"
+        width="100%"
+      />
+    </td>
 
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Musfiqur-Rahman0&theme=github_dark"
-    alt="Top Languages by Repo"
-    width="32%"
-  />
+    <td width="33%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Musfiqur-Rahman0&theme=github_dark"
+        alt="Top Languages by Repo"
+        width="100%"
+      />
+    </td>
 
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Musfiqur-Rahman0&theme=github_dark"
-    alt="Top Languages by Commit"
-    width="32%"
-  />
-</p>
+    <td width="33%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Musfiqur-Rahman0&theme=github_dark"
+        alt="Top Languages by Commit"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
