@@ -52,6 +52,7 @@
   <img
     src="https://streak-stats.demolab.com/?user=Musfiqur-Rahman0&background=0D1117&border=30363D&stroke=21262D&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B949E&dates=8B949E&border_radius=12"
     alt="GitHub Streak Stats"
+    width="100%"
   />
 </p>
 
