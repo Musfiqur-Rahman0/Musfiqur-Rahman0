@@ -59,23 +59,21 @@
 
 <table>
   <tr>
-    <td width="33%" align="center">
+    <td align="center" width="33%">
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Musfiqur-Rahman0&theme=github_dark"
         alt="GitHub Stats"
         width="100%"
       />
     </td>
-
-    <td width="33%" align="center">
+    <td align="center" width="33%">
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Musfiqur-Rahman0&theme=github_dark"
         alt="Top Languages by Repo"
         width="100%"
       />
     </td>
-
-    <td width="33%" align="center">
+    <td align="center" width="33%">
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Musfiqur-Rahman0&theme=github_dark"
         alt="Top Languages by Commit"
