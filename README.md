@@ -60,25 +60,20 @@
 <!-- GitHub Stats + Languages -->
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Musfiqur-Rahman0&theme=dark&bg_color=0D1117&border_color=30363D&title_color=FFFFFF&text_color=8B949E&icon_color=8B5CF6&chart_color=8B5CF6&hide_logo=true"
-    alt="GitHub Statistics"
-    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Musfiqur-Rahman0&theme=github_dark"
+    alt="GitHub Stats"
+    width="32%"
   />
 
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Musfiqur-Rahman0&theme=dark&bg_color=0D1117&border_color=30363D&title_color=FFFFFF&text_color=8B949E&icon_color=8B5CF6&chart_color=8B5CF6"
-    alt="Top Languages"
-    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Musfiqur-Rahman0&theme=github_dark"
+    alt="Top Languages by Repo"
+    width="32%"
   />
-</p>
 
-<br />
-
-<!-- Most Used Languages -->
-<p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Musfiqur-Rahman0&theme=dark&bg_color=0D1117&border_color=30363D&title_color=FFFFFF&text_color=8B949E&icon_color=8B5CF6&chart_color=8B5CF6"
-    alt="Most Used Languages"
-    width="70%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Musfiqur-Rahman0&theme=github_dark"
+    alt="Top Languages by Commit"
+    width="32%"
   />
 </p>
