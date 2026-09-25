@@ -47,30 +47,38 @@
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
+<!-- GitHub Streak -->
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Musfiqur-Rahman0"
+    src="https://streak-stats.demolab.com/?user=Musfiqur-Rahman0&background=0D1117&border=30363D&stroke=21262D&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B949E&dates=8B949E&border_radius=12"
     alt="GitHub Streak Stats"
   />
 </p>
 
-<p align="left">
+<br />
+
+<!-- GitHub Stats + Languages -->
+<p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Musfiqur-Rahman0&theme=default"
-    alt="GitHub Stats"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Musfiqur-Rahman0&theme=dark&bg_color=0D1117&border_color=30363D&title_color=FFFFFF&text_color=8B949E&icon_color=8B5CF6&chart_color=8B5CF6&hide_logo=true"
+    alt="GitHub Statistics"
+    width="49%"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Musfiqur-Rahman0&theme=dark&bg_color=0D1117&border_color=30363D&title_color=FFFFFF&text_color=8B949E&icon_color=8B5CF6&chart_color=8B5CF6"
+    alt="Top Languages"
+    width="49%"
   />
 </p>
 
-<p align="right">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Musfiqur-Rahman0&theme=default"
-    alt="GitHub Languages"
-  />
-</p>
+<br />
 
-<p align="left">
+<!-- Most Used Languages -->
+<p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Musfiqur-Rahman0&theme=default"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Musfiqur-Rahman0&theme=dark&bg_color=0D1117&border_color=30363D&title_color=FFFFFF&text_color=8B949E&icon_color=8B5CF6&chart_color=8B5CF6"
     alt="Most Used Languages"
+    width="70%"
   />
 </p>
