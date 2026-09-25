@@ -43,14 +43,34 @@
   <a href="mailto:musfiqurrhaman6@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
+
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Musfiqur-Rahman0&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Musfiqur-Rahman0&theme=default"
+    alt="GitHub Profile Details"
+  />
 </p>
+
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Musfiqur-Rahman0&" alt="Streak" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Musfiqur-Rahman0&theme=default"
+    alt="GitHub Stats"
+  />
 </p>
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musfiqur-Rahman0&layout=compact" alt="Languages" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Musfiqur-Rahman0&theme=default"
+    alt="GitHub Languages"
+  />
+</p>
+
+<p align="left">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Musfiqur-Rahman0&theme=default"
+    alt="Most Used Languages"
+  />
 </p>
