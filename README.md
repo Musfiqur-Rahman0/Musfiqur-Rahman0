@@ -1,6 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co.com/Gv5VVLvJ/Musfiqur-rahman-banner-linked-in.png" alt="Musfiqur rahman linkedin banner image" width="100%" />
+  <img
+    src="https://i.ibb.co.com/Gv5VVLvJ/Musfiqur-rahman-banner-linked-in.png"
+    alt="Musfiqur Rahman — Full Stack Developer"
+    width="100%"
+  />
 </p>
 
 <!-- Name & Designation -->
