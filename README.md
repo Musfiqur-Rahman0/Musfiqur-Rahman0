@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co.com/HT952kHX/1750495964735.jpg" alt="Banner" width="100%" />
+  <img src="[https://i.ibb.co.com/HT952kHX/1750495964735.jpg](https://ibb.co.com/spH1t2Xs)" alt="Musfiqur rahman linkedin banner image" width="100%" />
 </p>
 
 <!-- Name & Designation -->
