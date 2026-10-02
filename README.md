@@ -9,44 +9,117 @@
 
 <!-- Name & Designation -->
 <h1 align="center">Hi 👋, I'm Musfiqur Rahman</h1>
-<h3 align="center">A Focused and Flexible Frontend Web Developer from Bangladesh</h3>
+<h3 align="center">Full Stack Developer building modern web apps, SaaS platforms & AI-powered applications</h3>
 
 <!-- About Me -->
 ## 👨‍💻 About Me
-<p>I'm a focused and flexible Frontend Developer passionate about crafting clean, optimized, and user-centered web experiences. I specialize in building modern, responsive UIs using technologies like JavaScript, React, Tailwind CSS, and Framer Motion, creating dynamic interfaces that bring ideas to life</p>
 
-- 🌱 I’m currently exploring  **Next.js**
-- 💬 Ask me about **React, Tailwind CSS, Node.js, Shadcn/ui**
+<p>
+I'm a Full Stack Developer focused on building modern, scalable, and user-centered web applications. 
+I work across the entire development stack — from responsive interfaces and design systems to 
+REST APIs, databases, authentication, and AI-powered features.
+</p>
+
+- 🚀 Building with **Next.js, React, TypeScript, Node.js & Express**
+- 🗄️ Working with **PostgreSQL, Prisma & modern backend architectures**
+- 🤖 Exploring and building **AI-powered applications, RAG systems & AI integrations**
+- 🎨 Experienced with **Tailwind CSS, shadcn/ui, Motion & modern UI systems**
+- 🌐 Experienced in **Webflow development, Figma-to-Webflow & CMS-driven websites**
+- 🧩 Interested in **SaaS platforms, dashboards, APIs & full-stack applications**
+- 💬 Ask me about **Next.js, React, TypeScript, Node.js, Express, PostgreSQL, Prisma, Webflow & AI**
 - 📫 How to reach me: **musfiqurrhaman6@gmail.com**
 
-<!-- Skills -->
-## 🛠️ Skills
+<!-- Tech Stack -->
+## 🛠️ Tech Stack
 
 ### Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,motion,shadcn" />
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,motion" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=shadcn" />
 </p>
 
 ### Backend & Database
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" />
 </p>
 
-### Tools & DevOps
+### AI & Application Development
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
+
+- AI-powered applications
+- RAG & knowledge-based systems
+- LLM integrations
+- AI SDKs & tool calling
+- Ollama & local AI models
+
+### Web Development & CMS
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=webflow,wordpress" />
+</p>
+
+- Webflow Development
+- Figma → Webflow
+- Webflow CMS
+- Webflow interactions & animations
+- Memberstack
+- Stripe integrations
+- Zapier & automation
+- Responsive landing pages & business websites
+
+### Tools & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,netlify" />
+</p>
+
+<!-- What I Build -->
+## 🚀 What I Build
+
+- 🌐 Full Stack Web Applications
+- ⚡ SaaS Platforms & Dashboards
+- 🤖 AI-Powered Applications
+- 🧠 AI Knowledge & RAG Systems
+- 🔌 REST APIs & Backend Systems
+- 🗄️ Database-Driven Applications
+- 🎨 Modern Responsive Websites
+- 🧩 Webflow Websites & CMS Solutions
+- 💳 SaaS Payments & Subscription Systems
+- 🔐 Authentication & Role-Based Applications
+
+<!-- Current Focus -->
+## 🌱 Currently Exploring
+
+- Advanced **Next.js App Router**
+- Scalable **Express.js & TypeScript architectures**
+- **PostgreSQL + Prisma** application design
+- **AI agents, RAG & LLM-powered applications**
+- **Vector databases & semantic search**
+- SaaS architecture and scalable backend systems
+- Better developer tooling and AI-assisted workflows
 
 <!-- Socials -->
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/Musfiqur-Rahman0" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://linkedin.com/in/musfiqurrahmansaikot" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:musfiqurrhaman6@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/Musfiqur-Rahman0" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://linkedin.com/in/musfiqurrahmansaikot" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:musfiqurrhaman6@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
-
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
