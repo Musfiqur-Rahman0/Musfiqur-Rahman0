@@ -42,17 +42,12 @@ REST APIs, databases, authentication, SaaS platforms, and AI-powered application
   <img src="https://skillicons.dev/icons?i=redux,threejs,vite" />
 </p>
 
-### Backend
+### Backend, Database & ORM
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,mongodb,mongoose" />
 </p>
 
-### Database & ORM
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,prisma,postgreesql" />
-</p>
 
 ### DevOps & Infrastructure
 
