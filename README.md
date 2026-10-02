@@ -66,10 +66,6 @@ REST APIs, databases, authentication, SaaS platforms, and AI-powered application
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
-
 ### Webflow & Web Technologies
 
 <p align="left">
@@ -85,7 +81,7 @@ REST APIs, databases, authentication, SaaS platforms, and AI-powered application
 ### DevOps & Infrastructure
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=docker,vercel,netlify" />
 </p>
 
 ### Development Tools
