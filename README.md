@@ -64,18 +64,8 @@ REST APIs, databases, authentication, SaaS platforms, and AI-powered application
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-### Webflow & Web Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=webflow" />
-</p>
-
-### Authentication, Payments & Integrations
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=auth0,stripe" />
+  <img src="https://cdn.simpleicons.org/ollama" />
+  <img src="https://cdn.simpleicons.org/huggingface" />
 </p>
 
 ### DevOps & Infrastructure
@@ -94,6 +84,12 @@ REST APIs, databases, authentication, SaaS platforms, and AI-powered application
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=graphql,apollo" />
+</p>
+
+### Webflow & Web Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=webflow" />
 </p>
 
 <!-- What I Build -->
