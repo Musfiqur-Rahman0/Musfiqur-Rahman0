@@ -49,13 +49,11 @@ REST APIs, databases, authentication, SaaS platforms, and AI-powered application
 </p>
 
 
-### DevOps & Infrastructure
+### DevOps, Infrastructure & Development Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,vercel,netlify" />
 </p>
-
-### Development Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,pnpm" />
