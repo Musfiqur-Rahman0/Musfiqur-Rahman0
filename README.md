@@ -45,23 +45,19 @@ REST APIs, databases, authentication, SaaS platforms, and AI-powered application
 ### UI, Animation & Design
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,framer" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=materialui" />
+  <img src="https://skillicons.dev/icons?i=materialui,shadcnui" />
 </p>
 
 ### Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Database & ORM
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,prisma,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,postgreesql" />
 </p>
 
 ### AI & Machine Learning
@@ -89,7 +85,7 @@ REST APIs, databases, authentication, SaaS platforms, and AI-powered application
 ### DevOps & Infrastructure
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,vercel,netlify" />
 </p>
 
 ### Development Tools
