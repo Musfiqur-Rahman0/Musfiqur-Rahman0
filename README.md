@@ -42,12 +42,6 @@ REST APIs, databases, authentication, SaaS platforms, and AI-powered application
   <img src="https://skillicons.dev/icons?i=redux,threejs,vite" />
 </p>
 
-### UI, Animation & Design
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=materialui,shadcnui" />
-</p>
-
 ### Backend
 
 <p align="left">
@@ -58,14 +52,6 @@ REST APIs, databases, authentication, SaaS platforms, and AI-powered application
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,prisma,postgreesql" />
-</p>
-
-### AI & Machine Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://cdn.simpleicons.org/ollama" />
-  <img src="https://cdn.simpleicons.org/huggingface" />
 </p>
 
 ### DevOps & Infrastructure
@@ -80,11 +66,14 @@ REST APIs, databases, authentication, SaaS platforms, and AI-powered application
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,pnpm" />
 </p>
 
-### APIs & Developer Ecosystem
+### AI & Machine Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=graphql,apollo" />
+  <img src="https://skillicons.dev/icons?i=python" height="48" />
+  <img src="https://www.vectorlogo.zone/logos/ollama/ollama-icon.svg" height="48" />
+  <img src="https://cdn.simpleicons.org/huggingface" height="42" />
 </p>
+
 
 ### Webflow & Web Technologies
 
