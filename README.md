@@ -15,14 +15,14 @@
 ## 👨‍💻 About Me
 
 <p>
-I'm a Full Stack Developer focused on building modern, scalable, and user-centered web applications. 
-I work across the entire development stack — from responsive interfaces and design systems to 
-REST APIs, databases, authentication, and AI-powered features.
+I'm a Full Stack Developer focused on building modern, scalable, and user-centered web applications.
+I work across the entire development stack — from responsive interfaces and design systems to
+REST APIs, databases, authentication, SaaS platforms, and AI-powered applications.
 </p>
 
 - 🚀 Building with **Next.js, React, TypeScript, Node.js & Express**
 - 🗄️ Working with **PostgreSQL, Prisma & modern backend architectures**
-- 🤖 Exploring and building **AI-powered applications, RAG systems & AI integrations**
+- 🤖 Building and exploring **AI-powered applications, RAG systems & LLM integrations**
 - 🎨 Experienced with **Tailwind CSS, shadcn/ui, Motion & modern UI systems**
 - 🌐 Experienced in **Webflow development, Figma-to-Webflow & CMS-driven websites**
 - 🧩 Interested in **SaaS platforms, dashboards, APIs & full-stack applications**
@@ -30,55 +30,78 @@ REST APIs, databases, authentication, and AI-powered features.
 - 📫 How to reach me: **musfiqurrhaman6@gmail.com**
 
 <!-- Tech Stack -->
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
 ### Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,motion" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass" />
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=shadcn" />
+  <img src="https://skillicons.dev/icons?i=redux,threejs,vite" />
 </p>
 
-### Backend & Database
+### UI, Animation & Design
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=figma,framer" />
 </p>
 
-### AI & Application Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=materialui" />
+</p>
+
+### Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
+
+### Database & ORM
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,mysql,redis" />
+</p>
+
+### AI & Machine Learning
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-- AI-powered applications
-- RAG & knowledge-based systems
-- LLM integrations
-- AI SDKs & tool calling
-- Ollama & local AI models
-
-### Web Development & CMS
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=webflow,wordpress" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
-- Webflow Development
-- Figma → Webflow
-- Webflow CMS
-- Webflow interactions & animations
-- Memberstack
-- Stripe integrations
-- Zapier & automation
-- Responsive landing pages & business websites
-
-### Tools & DevOps
+### Webflow & Web Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=webflow" />
+</p>
+
+### Authentication, Payments & Integrations
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=auth0,stripe" />
+</p>
+
+### DevOps & Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,vercel,netlify" />
+</p>
+
+### Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,pnpm" />
+</p>
+
+### APIs & Developer Ecosystem
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=graphql,apollo" />
 </p>
 
 <!-- What I Build -->
@@ -92,8 +115,9 @@ REST APIs, databases, authentication, and AI-powered features.
 - 🗄️ Database-Driven Applications
 - 🎨 Modern Responsive Websites
 - 🧩 Webflow Websites & CMS Solutions
-- 💳 SaaS Payments & Subscription Systems
+- 💳 Subscription & Payment Systems
 - 🔐 Authentication & Role-Based Applications
+- 🔄 Automation & Third-Party Integrations
 
 <!-- Current Focus -->
 ## 🌱 Currently Exploring
@@ -104,7 +128,7 @@ REST APIs, databases, authentication, and AI-powered features.
 - **AI agents, RAG & LLM-powered applications**
 - **Vector databases & semantic search**
 - SaaS architecture and scalable backend systems
-- Better developer tooling and AI-assisted workflows
+- AI-assisted development workflows
 
 <!-- Socials -->
 ## 🌐 Connect With Me
