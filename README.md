@@ -63,7 +63,7 @@ REST APIs, databases, authentication, SaaS platforms, and AI-powered application
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" height="48" />
-  <img src="https://raw.githubusercontent.com/ollama/ollama/main/docs/ollama-logo.svg" height="48" />
+ <img src="https://simpleicons.org" alt="Ollama Icon" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/huggingface" height="42" />
 </p>
 
